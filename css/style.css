@@ -1,0 +1,69 @@
+*{
+
+}
+p{
+	color:black;
+	
+}
+
+/* bootstrap functions */
+.navbar{
+	background-color:white;
+	padding-bottom:25px;
+	padding-top:25px;
+}
+
+.container{
+	margin:0;
+	width:100%;
+}
+
+.navbar{
+	background-color:#9E9E9E;
+}
+.navbar-brand{
+	text-decoration:bold;
+	size:1.4em;
+	
+}
+
+/*.container-fluid{
+	height:1000px;
+	
+}*/
+.navbar-toggler-icon{
+	color:red !important;
+}
+
+
+/* bootstrap ends */
+
+/* general*/
+
+.title{
+	text-align:center;
+	size:8px;
+	margin-bottom:15px;
+	margin-top:15px;
+	
+}
+#titl{
+	
+	text-align:center;
+	size:20px;
+	font-weight:bold;
+	margin-bottom:30px;
+	margin-top:20px;
+}
+#t1{
+	size:12px;
+	font-weight:bold;
+}
+
+
+.box{
+	background-color:gray;
+	margin-bottom:25px;
+	/*max-height:200px;*/
+	
+}
